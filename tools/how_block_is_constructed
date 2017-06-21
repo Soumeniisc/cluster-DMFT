@@ -1,0 +1,1 @@
+The idea of the cix file is that we block together all atomic eigenstates. there is total 4^4 = 256 states for Hubbard model. they are groped into 84 blocks. maximum number of states in one bock is 12. such blok is one in 2*2 cluster for hubbard model.

@@ -1,0 +1,15 @@
+#!/bin/env bash 
+#PBS -l nodes=2:ppn=32
+#PBS -l walltime=24:00:00
+#PBS -N cluster
+#PBS -V
+
+#set temp_dir=/temp1/soumen/IHM_NNN
+#set curr_dir=/home/soumen/IHM_NNN
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE > temp.1
+
+python iterate_cluster.py
+#rsync -avz  $temp_dir $curr_dir
+echo "process is done"
+

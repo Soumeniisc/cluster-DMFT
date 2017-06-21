@@ -1,0 +1,60 @@
+Reading data with 2000 entries
+WARN: Psum = 0.999861
+WARN: Psum = 0.999861
+WARN: Psum = 0.999861
+WARN: Psum = 0.999861
+WARN: Psum = 0.999861
+WARN: Psum = 0.999861
+WARN: Psum = 0.999861
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  1 -----
+Have HB1
+Number of operators needed 0  0
+Reading data with 2000 entries
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  2 -----
+Have HB1
+Number of operators needed 0  0
+Reading data with 2000 entries
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  3 -----
+Have HB1
+Number of operators needed 0  0
+Reading data with 2000 entries
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  4 -----
+Have HB1
+Number of operators needed 0  0
+Reading data with 2000 entries
+ERROR at istep = -1 ms left and ms right are not the same : ratio=0.992962123900064 msl=-1.00708777935138 569.3679399706314  msr=-0.9999999999607478 569.3679399910092 
+ state_evolution_left[40].size=149 state_evolution_right.size[40]=149
+ state_evolution_left[41].size=149 state_evolution_right.size[41]=149
+ state_evolution_left[44].size=149 state_evolution_right.size[44]=149
+ state_evolution_left[47].size=149 state_evolution_right.size[47]=26
+ state_evolution_left[55].size=149 state_evolution_right.size[55]=149
+ state_evolution_left[58].size=149 state_evolution_right.size[58]=149
+ state_evolution_left[59].size=149 state_evolution_right.size[59]=149
+ state_evolution_left[62].size=149 state_evolution_right.size[62]=149
+ state_evolution_left[63].size=149 state_evolution_right.size[63]=149
+ state_evolution_left[65].size=149 state_evolution_right.size[65]=149
+ state_evolution_left[70].size=149 state_evolution_right.size[70]=149
+ state_evolution_left[73].size=149 state_evolution_right.size[73]=149
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  5 -----
+Have HB1
+Number of operators needed 0  0
+Reading data with 2000 entries
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  6 -----
+Have HB1
+Number of operators needed 0  0
+Reading data with 2000 entries
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  7 -----
+Have HB1
+Number of operators needed 0  0
+Reading data with 2000 entries
+cnsize=84 cEne.size=85
+Running ---- qmc itt.:  8 -----
+Have HB1
+
